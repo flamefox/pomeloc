@@ -1,0 +1,14 @@
+/.svn
+/build/ZERO_CHECK.vcxproj.filters
+/build/cmake_install.cmake
+/build/CMakeCache.txt
+/build/pomeloc.sln
+/build/pomeloc.vcxproj
+/build/pomeloc.vcxproj.filters
+/build/ZERO_CHECK.vcxproj
+/build/ALL_BUILD.vcxproj.filters
+/build/CMakeFiles
+/build/pomeloc.dir
+/build/Release
+/build/Win32
+/build/ALL_BUILD.vcxproj

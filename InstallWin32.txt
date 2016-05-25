@@ -1,0 +1,4 @@
+** Build on Windows
+1. mkdir build && cd build 
+2. cmake -G "Visual Studio 14 2015" ..
+3. open pomeloc.sln to build

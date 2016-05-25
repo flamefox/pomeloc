@@ -1,0 +1,31 @@
+{
+  "onChat": {
+    "required string msg": 1,
+    "required string from": 2,
+    "required string target": 3
+  },
+  "onLeave": {
+    "required string user": 1
+  },
+  "onAdd": {
+    "required string user": 1
+  },
+  "gate.gateHandler.queryEntry": {
+    "message Vec3": {
+      "message Vec2": {
+        "required int32 x": 1,
+        "required int32 y": 2
+      },
+      "required float x": 1,
+      "required float y": 2,
+      "required float z": 3,
+      "optional Vec2 xx": 4,
+      "repeated Vec2 xxx": 5
+    },
+    "required int32 code": 1,
+    "required string host": 2,
+    "required int32 port": 3,
+    "repeated int32 xxx": 4,
+    "repeated Vec3 positions": 5
+  }
+}
