@@ -2,7 +2,7 @@
 
 a pomelo protocol unity-c# stub generator.
 
-pomeloc 是一个针对[pomelo](https://github.com/NetEase/pomelo) 的协议生成unity3d-c#存根代码的工具，需要配合flamefox的[pomelo-unitychat-socket](https://github.com/flamefox/pomelo-unitychat)中的客户端代码使用
+pomeloc 是一个针对[pomelo](https://github.com/NetEase/pomelo) 的协议生成unity3d-c#存根代码的工具，需要配合这个demo[pomelo-unitychat](https://github.com/flamefox/pomelo-unitychat)中的客户端代码使用
 
 ## 安装方法
 需要cmake
