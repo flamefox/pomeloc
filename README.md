@@ -60,9 +60,9 @@ namespace Proto
 ```
 
 ## 规则
-如果clientProto.json有而serverProto.json没有,则认为是notify
-如果clientProto.json有并且serverProto.json有,则认为是request
-如果只有serverProto.json有,则认为是服务器主动下发,代码中使用ServerEvent.xxx调用
+* 如果clientProto.json有而serverProto.json没有,则认为是notify
+* 如果clientProto.json有并且serverProto.json有,则认为是request
+* 如果只有serverProto.json有,则认为是服务器主动下发,代码中使用ServerEvent.xxx调用
 
 要求前端默认开启dict,proto
 
